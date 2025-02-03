@@ -1,0 +1,126 @@
+[0.000000] (-) TimerEvent: {}
+[0.000432] (pid_controller) JobQueued: {'identifier': 'pid_controller', 'dependencies': OrderedDict()}
+[0.001181] (pid_controller) JobStarted: {'identifier': 'pid_controller'}
+[0.100875] (-) TimerEvent: {}
+[0.203197] (-) TimerEvent: {}
+[0.303931] (-) TimerEvent: {}
+[0.404223] (-) TimerEvent: {}
+[0.504771] (-) TimerEvent: {}
+[0.605148] (-) TimerEvent: {}
+[0.705452] (-) TimerEvent: {}
+[0.805728] (-) TimerEvent: {}
+[0.906030] (-) TimerEvent: {}
+[1.006384] (-) TimerEvent: {}
+[1.106770] (-) TimerEvent: {}
+[1.207312] (-) TimerEvent: {}
+[1.308535] (-) TimerEvent: {}
+[1.412412] (-) TimerEvent: {}
+[1.513101] (-) TimerEvent: {}
+[1.613828] (-) TimerEvent: {}
+[1.714694] (-) TimerEvent: {}
+[1.815704] (-) TimerEvent: {}
+[1.916898] (-) TimerEvent: {}
+[2.017735] (-) TimerEvent: {}
+[2.118542] (-) TimerEvent: {}
+[2.221282] (-) TimerEvent: {}
+[2.323469] (-) TimerEvent: {}
+[2.423890] (-) TimerEvent: {}
+[2.524298] (-) TimerEvent: {}
+[2.625117] (-) TimerEvent: {}
+[2.725757] (-) TimerEvent: {}
+[2.826393] (-) TimerEvent: {}
+[2.927096] (-) TimerEvent: {}
+[3.028269] (-) TimerEvent: {}
+[3.129183] (-) TimerEvent: {}
+[3.229659] (-) TimerEvent: {}
+[3.330250] (-) TimerEvent: {}
+[3.430965] (-) TimerEvent: {}
+[3.531366] (-) TimerEvent: {}
+[3.632110] (-) TimerEvent: {}
+[3.732955] (-) TimerEvent: {}
+[3.834107] (-) TimerEvent: {}
+[3.934947] (-) TimerEvent: {}
+[4.035642] (-) TimerEvent: {}
+[4.136330] (-) TimerEvent: {}
+[4.237366] (-) TimerEvent: {}
+[4.337987] (-) TimerEvent: {}
+[4.439194] (-) TimerEvent: {}
+[4.539614] (-) TimerEvent: {}
+[4.640577] (-) TimerEvent: {}
+[4.741777] (-) TimerEvent: {}
+[4.842840] (-) TimerEvent: {}
+[4.943772] (-) TimerEvent: {}
+[5.044402] (-) TimerEvent: {}
+[5.145192] (-) TimerEvent: {}
+[5.246244] (-) TimerEvent: {}
+[5.347154] (-) TimerEvent: {}
+[5.448229] (-) TimerEvent: {}
+[5.548942] (-) TimerEvent: {}
+[5.649441] (-) TimerEvent: {}
+[5.749813] (-) TimerEvent: {}
+[5.850614] (-) TimerEvent: {}
+[5.951246] (-) TimerEvent: {}
+[6.052258] (-) TimerEvent: {}
+[6.153322] (-) TimerEvent: {}
+[6.253845] (-) TimerEvent: {}
+[6.354805] (-) TimerEvent: {}
+[6.457708] (-) TimerEvent: {}
+[6.558432] (-) TimerEvent: {}
+[6.659112] (-) TimerEvent: {}
+[6.759672] (-) TimerEvent: {}
+[6.859979] (-) TimerEvent: {}
+[6.960362] (-) TimerEvent: {}
+[7.060961] (-) TimerEvent: {}
+[7.162091] (-) TimerEvent: {}
+[7.263019] (-) TimerEvent: {}
+[7.363463] (-) TimerEvent: {}
+[7.463782] (-) TimerEvent: {}
+[7.467844] (pid_controller) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/pid_controller', 'build', '--build-base', '/home/kkcmaestro/ros2_wst/build/pid_controller/build', 'install', '--record', '/home/kkcmaestro/ros2_wst/build/pid_controller/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/kkcmaestro/ros2_wst/src/pid_controller', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'kkcmaestro', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/sdformat_vendor/share/gz', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/kkcmaestro', 'OLDPWD': '/home/kkcmaestro', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '3217', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GNOME_KEYRING_CONTROL': '/run/user/1000/keyring', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'COLCON_PREFIX_PATH': '/home/kkcmaestro/ros2_wst/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'kkcmaestro', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.SettingsDaemon.MediaKeys.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'kkcmaestro', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/kkcmaestro-HP-Pavilion-Notebook:@/tmp/.ICE-unix/3035,unix/kkcmaestro-HP-Pavilion-Notebook:/tmp/.ICE-unix/3035', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/edd6148a_45ca_43f2_b1e6_4ae5bd6285cf', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'GNOME_TERMINAL_SERVICE': ':1.2638', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/kkcmaestro/ros2_wst/install/pid_controller:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/kkcmaestro/ros2_wst/build/pid_controller', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/home/kkcmaestro/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/kkcmaestro/ros2_wst/build/pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages:/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[7.563952] (-) TimerEvent: {}
+[7.664348] (-) TimerEvent: {}
+[7.764690] (-) TimerEvent: {}
+[7.864972] (-) TimerEvent: {}
+[7.965247] (-) TimerEvent: {}
+[8.065500] (-) TimerEvent: {}
+[8.079550] (pid_controller) StdoutLine: {'line': b'running egg_info\n'}
+[8.117549] (pid_controller) StdoutLine: {'line': b'writing ../../build/pid_controller/pid_controller.egg-info/PKG-INFO\n'}
+[8.117938] (pid_controller) StdoutLine: {'line': b'writing dependency_links to ../../build/pid_controller/pid_controller.egg-info/dependency_links.txt\n'}
+[8.118371] (pid_controller) StdoutLine: {'line': b'writing entry points to ../../build/pid_controller/pid_controller.egg-info/entry_points.txt\n'}
+[8.118951] (pid_controller) StdoutLine: {'line': b'writing requirements to ../../build/pid_controller/pid_controller.egg-info/requires.txt\n'}
+[8.120074] (pid_controller) StdoutLine: {'line': b'writing top-level names to ../../build/pid_controller/pid_controller.egg-info/top_level.txt\n'}
+[8.165972] (-) TimerEvent: {}
+[8.242910] (pid_controller) StdoutLine: {'line': b"reading manifest file '../../build/pid_controller/pid_controller.egg-info/SOURCES.txt'\n"}
+[8.253120] (pid_controller) StdoutLine: {'line': b"writing manifest file '../../build/pid_controller/pid_controller.egg-info/SOURCES.txt'\n"}
+[8.253583] (pid_controller) StdoutLine: {'line': b'running build\n'}
+[8.253796] (pid_controller) StdoutLine: {'line': b'running build_py\n'}
+[8.254546] (pid_controller) StdoutLine: {'line': b'copying pid_controller/PT_RT_half_vel.py -> /home/kkcmaestro/ros2_wst/build/pid_controller/build/lib/pid_controller\n'}
+[8.266085] (-) TimerEvent: {}
+[8.290822] (pid_controller) StdoutLine: {'line': b'running install\n'}
+[8.321580] (pid_controller) StdoutLine: {'line': b'running install_lib\n'}
+[8.366177] (-) TimerEvent: {}
+[8.383246] (pid_controller) StdoutLine: {'line': b'copying /home/kkcmaestro/ros2_wst/build/pid_controller/build/lib/pid_controller/PT_RT_half_vel.py -> /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller\n'}
+[8.384547] (pid_controller) StdoutLine: {'line': b'byte-compiling /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller/PT_RT_half_vel.py to PT_RT_half_vel.cpython-312.pyc\n'}
+[8.387629] (pid_controller) StdoutLine: {'line': b'running install_data\n'}
+[8.387945] (pid_controller) StdoutLine: {'line': b'running install_egg_info\n'}
+[8.427810] (pid_controller) StdoutLine: {'line': b"removing '/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[8.434864] (pid_controller) StdoutLine: {'line': b'Copying ../../build/pid_controller/pid_controller.egg-info to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller-0.0.0-py3.12.egg-info\n'}
+[8.441778] (pid_controller) StdoutLine: {'line': b'running install_scripts\n'}
+[8.466298] (-) TimerEvent: {}
+[8.566553] (-) TimerEvent: {}
+[8.666884] (-) TimerEvent: {}
+[8.697509] (pid_controller) StdoutLine: {'line': b'Installing circle_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.708877] (pid_controller) StdoutLine: {'line': b'Installing deceleration_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.709186] (pid_controller) StdoutLine: {'line': b'Installing half_vel_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.709484] (pid_controller) StdoutLine: {'line': b'Installing pid_controller_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.709764] (pid_controller) StdoutLine: {'line': b'Installing pid_grid_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.709967] (pid_controller) StdoutLine: {'line': b'Installing police_turtle_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.710254] (pid_controller) StdoutLine: {'line': b'Installing police_turtle_node2 script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.710612] (pid_controller) StdoutLine: {'line': b'Installing rt_pt_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.711366] (pid_controller) StdoutLine: {'line': b'Installing rt_pt_noise_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller\n'}
+[8.712417] (pid_controller) StdoutLine: {'line': b"writing list of installed files to '/home/kkcmaestro/ros2_wst/build/pid_controller/install.log'\n"}
+[8.767115] (-) TimerEvent: {}
+[8.772817] (pid_controller) CommandEnded: {'returncode': 0}
+[8.867286] (-) TimerEvent: {}
+[8.967875] (-) TimerEvent: {}
+[9.001443] (pid_controller) JobEnded: {'identifier': 'pid_controller', 'rc': 0}
+[9.003865] (-) EventReactorShutdown: {}

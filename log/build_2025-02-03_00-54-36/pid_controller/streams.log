@@ -1,0 +1,30 @@
+[1.907s] Invoking command in '/home/kkcmaestro/ros2_wst/src/pid_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kkcmaestro/ros2_wst/build/pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_controller build --build-base /home/kkcmaestro/ros2_wst/build/pid_controller/build install --record /home/kkcmaestro/ros2_wst/build/pid_controller/install.log --single-version-externally-managed install_data
+[2.847s] running egg_info
+[3.024s] writing ../../build/pid_controller/pid_controller.egg-info/PKG-INFO
+[3.026s] writing dependency_links to ../../build/pid_controller/pid_controller.egg-info/dependency_links.txt
+[3.030s] writing entry points to ../../build/pid_controller/pid_controller.egg-info/entry_points.txt
+[3.030s] writing requirements to ../../build/pid_controller/pid_controller.egg-info/requires.txt
+[3.030s] writing top-level names to ../../build/pid_controller/pid_controller.egg-info/top_level.txt
+[3.126s] reading manifest file '../../build/pid_controller/pid_controller.egg-info/SOURCES.txt'
+[3.128s] writing manifest file '../../build/pid_controller/pid_controller.egg-info/SOURCES.txt'
+[3.131s] running build
+[3.131s] running build_py
+[3.131s] copying pid_controller/Police_turtle.py -> /home/kkcmaestro/ros2_wst/build/pid_controller/build/lib/pid_controller
+[3.131s] running install
+[3.154s] running install_lib
+[3.206s] copying /home/kkcmaestro/ros2_wst/build/pid_controller/build/lib/pid_controller/Police_turtle.py -> /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller
+[3.207s] byte-compiling /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller/Police_turtle.py to Police_turtle.cpython-312.pyc
+[3.210s] running install_data
+[3.210s] running install_egg_info
+[3.259s] removing '/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[3.260s] Copying ../../build/pid_controller/pid_controller.egg-info to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller-0.0.0-py3.12.egg-info
+[3.261s] running install_scripts
+[3.711s] Installing circle_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.712s] Installing deceleration_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.712s] Installing pid_controller_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.712s] Installing pid_grid_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.712s] Installing police_turtle_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.713s] Installing police_turtle_node2 script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.713s] Installing rt_pt_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[3.714s] writing list of installed files to '/home/kkcmaestro/ros2_wst/build/pid_controller/install.log'
+[3.827s] Invoked command in '/home/kkcmaestro/ros2_wst/src/pid_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kkcmaestro/ros2_wst/build/pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_controller build --build-base /home/kkcmaestro/ros2_wst/build/pid_controller/build install --record /home/kkcmaestro/ros2_wst/build/pid_controller/install.log --single-version-externally-managed install_data

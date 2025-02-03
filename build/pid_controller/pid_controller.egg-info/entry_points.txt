@@ -1,0 +1,11 @@
+[console_scripts]
+circle_node = pid_controller.Circles:main
+deceleration_node = pid_controller.Deceleration_node:main
+half_vel_node = pid_controller.PT_RT_half_vel:main
+pid_controller_node = pid_controller.pid_controller:main
+pid_grid_node = pid_controller.Grid_code:main
+police_turtle_node = pid_controller.Police_turtle:main
+police_turtle_node2 = pid_controller.Police_turle:main
+rt_pt_node = pid_controller.RT_PT_node:main
+rt_pt_noise_node = pid_controller.PT_RT_noisy_data:main
+spawn_node = pid_controller.Spawn:main

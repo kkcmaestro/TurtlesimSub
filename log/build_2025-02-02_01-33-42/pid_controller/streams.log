@@ -1,0 +1,25 @@
+[1.241s] Invoking command in '/home/kkcmaestro/ros2_wst/src/pid_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kkcmaestro/ros2_wst/build/pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_controller build --build-base /home/kkcmaestro/ros2_wst/build/pid_controller/build install --record /home/kkcmaestro/ros2_wst/build/pid_controller/install.log --single-version-externally-managed install_data
+[1.658s] running egg_info
+[1.689s] writing ../../build/pid_controller/pid_controller.egg-info/PKG-INFO
+[1.689s] writing dependency_links to ../../build/pid_controller/pid_controller.egg-info/dependency_links.txt
+[1.690s] writing entry points to ../../build/pid_controller/pid_controller.egg-info/entry_points.txt
+[1.690s] writing requirements to ../../build/pid_controller/pid_controller.egg-info/requires.txt
+[1.690s] writing top-level names to ../../build/pid_controller/pid_controller.egg-info/top_level.txt
+[1.758s] reading manifest file '../../build/pid_controller/pid_controller.egg-info/SOURCES.txt'
+[1.759s] writing manifest file '../../build/pid_controller/pid_controller.egg-info/SOURCES.txt'
+[1.759s] running build
+[1.760s] running build_py
+[1.760s] copying pid_controller/Circles.py -> /home/kkcmaestro/ros2_wst/build/pid_controller/build/lib/pid_controller
+[1.760s] running install
+[1.769s] running install_lib
+[1.801s] copying /home/kkcmaestro/ros2_wst/build/pid_controller/build/lib/pid_controller/Circles.py -> /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller
+[1.802s] byte-compiling /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller/Circles.py to Circles.cpython-312.pyc
+[1.804s] running install_data
+[1.804s] running install_egg_info
+[1.843s] removing '/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[1.844s] Copying ../../build/pid_controller/pid_controller.egg-info to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages/pid_controller-0.0.0-py3.12.egg-info
+[1.845s] running install_scripts
+[2.056s] Installing circle_node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[2.056s] Installing driver_custom_Node script to /home/kkcmaestro/ros2_wst/install/pid_controller/lib/pid_controller
+[2.057s] writing list of installed files to '/home/kkcmaestro/ros2_wst/build/pid_controller/install.log'
+[2.098s] Invoked command in '/home/kkcmaestro/ros2_wst/src/pid_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kkcmaestro/ros2_wst/build/pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kkcmaestro/ros2_wst/install/pid_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_controller build --build-base /home/kkcmaestro/ros2_wst/build/pid_controller/build install --record /home/kkcmaestro/ros2_wst/build/pid_controller/install.log --single-version-externally-managed install_data
