@@ -1,6 +1,5 @@
-# TurtlesimSub
- Assingment submission
-This files contains all the code for assigments submissions.
+# Turtlesim
+
 
 After sourcing everything and starting turtlesim_node, follow these steps to run code for each result.
 
